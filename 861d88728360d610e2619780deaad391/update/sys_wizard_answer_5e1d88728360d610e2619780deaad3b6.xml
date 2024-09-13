@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Todo App Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Todo App Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">17e6835bd12302104f34ba60d8b7c1f4</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-13 11:10:46</sys_created_on>
+        <sys_id>5e1d88728360d610e2619780deaad3b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Todo App Request</sys_name>
+        <sys_package display_value="Todo App" source="x_956260_todo_app">861d88728360d610e2619780deaad391</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Todo App">861d88728360d610e2619780deaad391</sys_scope>
+        <sys_update_name>sys_wizard_answer_5e1d88728360d610e2619780deaad3b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-13 11:10:46</sys_updated_on>
+        <table/>
+        <target_url>x_956260_todo_app_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
